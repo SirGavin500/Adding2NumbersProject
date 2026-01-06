@@ -33,3 +33,39 @@ C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Adding2Numbe
 C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.pdb
 C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.genruntimeconfig.cache
 C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Adding2NumbersProject\obj\Debug\net9.0\ref\Adding2NumbersProject.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\appsettings.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Adding2NumbersProject.staticwebassets.endpoints.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Adding2NumbersProject.exe
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Adding2NumbersProject.deps.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Adding2NumbersProject.runtimeconfig.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Adding2NumbersProject.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Adding2NumbersProject.pdb
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.csproj.AssemblyReference.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.AssemblyInfoInputs.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.AssemblyInfo.cs
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.csproj.CoreCompileInputs.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.sourcelink.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\scopedcss\bundle\Adding2NumbersProject.styles.css
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2N.74BBEAC8.Up2Date
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\refint\Adding2NumbersProject.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.pdb
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\Adding2NumbersProject.genruntimeconfig.cache
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 1\Adding2NumbersProject\obj\Debug\net9.0\ref\Adding2NumbersProject.dll
